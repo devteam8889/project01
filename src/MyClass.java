@@ -22,4 +22,9 @@ public class MyClass implements CarTaxes {
         result.put("Vergiler Toplami", sumTax);
         return result;
     }
+
+    @Override
+    public Map<String, Integer> taxForMinibus(int carPrice) {
+        return null;
+    }
 }
