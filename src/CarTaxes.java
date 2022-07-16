@@ -28,4 +28,5 @@ public interface CarTaxes {
 
     Map<String, Integer> taxForAutomobile(int carPrice);
 
+    Map<String, Integer> taxForMinibus(int carPrice);
 }
