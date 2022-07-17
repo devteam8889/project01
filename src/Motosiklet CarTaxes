@@ -1,8 +1,0 @@
-package dev_team;
-
-import java.util.Map;
-
-public interface CarTaxes {
-
-    Map<String, Double> taxForAutomobile(Double aracinDegeri,int silindir);
-    }
