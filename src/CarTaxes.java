@@ -30,4 +30,7 @@ public interface CarTaxes {
 
     Map<String, Integer> taxForMinibus(int carPrice);
 
-}
+    Map<String, Double> taxForAutomobile(Double aracinDegeri,int silindir);
+
+
+    }

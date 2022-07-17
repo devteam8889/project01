@@ -32,4 +32,9 @@ public class Taxes_For_Minubus implements CarTaxes {
 
     }
 
+    @Override
+    public Map<String, Double> taxForAutomobile(Double aracinDegeri, int silindir) {
+        return null;
+    }
+
 }
