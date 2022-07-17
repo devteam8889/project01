@@ -1,0 +1,15 @@
+package dev_team;
+
+import java.util.Scanner;
+
+public class Main {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        System.out.println("Silindirin boyutunu giriniz: ");
+        int silindirinBoyutu = scanner.nextInt();
+        System.out.println("Aracin degeri(TL): ");
+        Double input = scanner.nextDouble();
+        Motosiklet obj1 = new Motosiklet();
+        System.out.println(obj1.taxForAutomobile(input,silindirinBoyutu));
+    }
+}
