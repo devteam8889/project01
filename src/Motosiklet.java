@@ -46,5 +46,10 @@ import java.util.Scanner;
             result.put("Vergiler Toplami",vergilerToplami);
             return result;
         }
+
+        @Override
+        public Map<String, Double> taxForElectricMotor(Double aracinDegeri, int silindir) {
+            return null;
+        }
     }
 

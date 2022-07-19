@@ -45,4 +45,9 @@ public class MyClass implements CarTaxes {
     public Map<String, Double> taxForAutomobile(Double aracinDegeri, int silindir) {
         return null;
     }
+
+    @Override
+    public Map<String, Double> taxForElectricMotor(Double aracinDegeri, int silindir) {
+        return null;
+    }
 }
