@@ -4,6 +4,7 @@
     <list default="true" id="20c3a781-9df1-43cb-a6d3-16197bb17f4f" name="Changes" comment="define method in CarTaxes interface, implements the required methods.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Taxes_For_Minubus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Taxes_For_Minubus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Motosiklet.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +58,7 @@
       <updated>1657961549441</updated>
       <workItem from="1657961551942" duration="2083000" />
       <workItem from="1657997619901" duration="971000" />
+      <workItem from="1658076802721" duration="36000" />
     </task>
     <task id="LOCAL-00001" summary="Create Taxes_For_Minubus class">
       <created>1658001827869</created>
