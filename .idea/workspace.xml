@@ -73,7 +73,21 @@
       <option name="project" value="LOCAL" />
       <updated>1658002874049</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="define method in CarTaxes interface, implements the required methods.">
+      <created>1658003152225</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1658003152225</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add testing commit">
+      <created>1658255001898</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1658255001898</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -84,7 +98,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="hasbi_taxes_for_minibus" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -94,6 +120,7 @@
     <MESSAGE value="Create Taxes_For_Minubus class" />
     <MESSAGE value="define method in CarTaxes interface, implements the required methods" />
     <MESSAGE value="define method in CarTaxes interface, implements the required methods." />
-    <option name="LAST_COMMIT_MESSAGE" value="define method in CarTaxes interface, implements the required methods." />
+    <MESSAGE value="add testing commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="add testing commit" />
   </component>
 </project>

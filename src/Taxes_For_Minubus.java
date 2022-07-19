@@ -29,7 +29,7 @@ public class Taxes_For_Minubus implements CarTaxes {
         result.put("KDV Total", kdvTax);
         result.put("Sum of Totals", sumTax);
         return result;
-
+         //testing
     }
 
     @Override
