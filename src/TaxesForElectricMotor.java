@@ -18,7 +18,10 @@ public class TaxesForElectricMotor implements CarTaxes{
     }
 
     @Override
-    public Map<String, Double> taxForAutomobile(Double aracinDegeri, int silindir) {
+    public Map<String, Double> taxForAutomobile(Double aracinDegeri, int silindir) {return null;}
+
+    @Override
+    public Map<String, Double> taxForElectricMotor(Double aracinDegeri, int silindir) {
         Map<String,Double> result=new LinkedHashMap<>();
         double aracinVergisizBedeli =0;
         double otvRate =0;
@@ -46,5 +49,6 @@ public class TaxesForElectricMotor implements CarTaxes{
         result.put("Vergiler Toplami",totalTax);
         return result;
     }
+
 }
 

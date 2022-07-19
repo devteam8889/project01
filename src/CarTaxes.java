@@ -32,5 +32,8 @@ public interface CarTaxes {
 
     Map<String, Double> taxForAutomobile(Double aracinDegeri,int silindir);
 
+    Map<String, Double> taxForElectricMotor(Double aracinDegeri,int silindir);
 
-    }
+
+
+}
