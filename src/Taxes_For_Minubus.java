@@ -29,11 +29,16 @@ public class Taxes_For_Minubus implements CarTaxes {
         result.put("KDV Total", kdvTax);
         result.put("Sum of Totals", sumTax);
         return result;
-
+         //testing
     }
 
     @Override
     public Map<String, Double> taxForAutomobile(Double aracinDegeri, int silindir) {
+        return null;
+    }
+
+    @Override
+    public Map<String, Double> taxForElectricMotor(Double aracinDegeri, int silindir) {
         return null;
     }
 
